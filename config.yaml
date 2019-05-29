@@ -1,0 +1,19 @@
+baseURL: 'http://example.org/'
+languageCode: en-us
+title: Markdown Content Unit Tests
+
+themesDir: components
+
+theme:
+  - tnd-theme-startup
+menus:
+ main:
+  - identifier: home
+    name: Home
+    url: /
+    weight: 1
+  - identifier: tests
+    name: tests
+    url: /unit-tests/
+    weight: 60
+  
