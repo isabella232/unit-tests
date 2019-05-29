@@ -1,0 +1,3 @@
+[submodule "components/tnd-theme-startup"]
+	path = components/tnd-theme-startup
+	url = https://github.com/theNewDynamic/tnd-theme-startup.git
