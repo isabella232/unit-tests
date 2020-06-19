@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Markdown Content Unit Tests</title>
+    <link>http://example.org/tags/</link>
+    <description>Recent content in Tags on Markdown Content Unit Tests</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Jan 2013 03:22:19 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>content</title>
+      <link>http://example.org/tags/content/</link>
+      <pubDate>Fri, 11 Jan 2013 03:22:19 +0000</pubDate>
+      
+      <guid>http://example.org/tags/content/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>css</title>
+      <link>http://example.org/tags/css/</link>
+      <pubDate>Fri, 11 Jan 2013 03:22:19 +0000</pubDate>
+      
+      <guid>http://example.org/tags/css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>formatting</title>
+      <link>http://example.org/tags/formatting/</link>
+      <pubDate>Fri, 11 Jan 2013 03:22:19 +0000</pubDate>
+      
+      <guid>http://example.org/tags/formatting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>html</title>
+      <link>http://example.org/tags/html/</link>
+      <pubDate>Fri, 11 Jan 2013 03:22:19 +0000</pubDate>
+      
+      <guid>http://example.org/tags/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>markup</title>
+      <link>http://example.org/tags/markup/</link>
+      <pubDate>Fri, 11 Jan 2013 03:22:19 +0000</pubDate>
+      
+      <guid>http://example.org/tags/markup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>alignment</title>
+      <link>http://example.org/tags/alignment/</link>
+      <pubDate>Thu, 10 Jan 2013 03:15:40 +0000</pubDate>
+      
+      <guid>http://example.org/tags/alignment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>captions</title>
+      <link>http://example.org/tags/captions/</link>
+      <pubDate>Thu, 10 Jan 2013 03:15:40 +0000</pubDate>
+      
+      <guid>http://example.org/tags/captions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>image</title>
+      <link>http://example.org/tags/image/</link>
+      <pubDate>Thu, 10 Jan 2013 03:15:40 +0000</pubDate>
+      
+      <guid>http://example.org/tags/image/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>read more</title>
+      <link>http://example.org/tags/read-more/</link>
+      <pubDate>Thu, 15 Mar 2012 21:41:11 +0000</pubDate>
+      
+      <guid>http://example.org/tags/read-more/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>template</title>
+      <link>http://example.org/tags/template/</link>
+      <pubDate>Thu, 15 Mar 2012 21:41:11 +0000</pubDate>
+      
+      <guid>http://example.org/tags/template/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>excerpt</title>
+      <link>http://example.org/tags/excerpt/</link>
+      <pubDate>Thu, 15 Mar 2012 21:38:08 +0000</pubDate>
+      
+      <guid>http://example.org/tags/excerpt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sticky</title>
+      <link>http://example.org/tags/sticky/</link>
+      <pubDate>Sat, 07 Jan 2012 14:07:21 +0000</pubDate>
+      
+      <guid>http://example.org/tags/sticky/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post Formats</title>
+      <link>http://example.org/tags/post-formats/</link>
+      <pubDate>Tue, 05 Oct 2010 07:27:25 +0000</pubDate>
+      
+      <guid>http://example.org/tags/post-formats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>readability</title>
+      <link>http://example.org/tags/readability/</link>
+      <pubDate>Tue, 05 Oct 2010 07:27:25 +0000</pubDate>
+      
+      <guid>http://example.org/tags/readability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>standard</title>
+      <link>http://example.org/tags/standard/</link>
+      <pubDate>Tue, 05 Oct 2010 07:27:25 +0000</pubDate>
+      
+      <guid>http://example.org/tags/standard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gallery</title>
+      <link>http://example.org/tags/gallery/</link>
+      <pubDate>Fri, 10 Sep 2010 14:24:14 +0000</pubDate>
+      
+      <guid>http://example.org/tags/gallery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shortcode</title>
+      <link>http://example.org/tags/shortcode/</link>
+      <pubDate>Fri, 10 Sep 2010 14:24:14 +0000</pubDate>
+      
+      <guid>http://example.org/tags/shortcode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jetpack</title>
+      <link>http://example.org/tags/jetpack/</link>
+      <pubDate>Thu, 09 Sep 2010 00:23:27 +0000</pubDate>
+      
+      <guid>http://example.org/tags/jetpack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tiled</title>
+      <link>http://example.org/tags/tiled/</link>
+      <pubDate>Thu, 09 Sep 2010 00:23:27 +0000</pubDate>
+      
+      <guid>http://example.org/tags/tiled/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>audio</title>
+      <link>http://example.org/tags/audio/</link>
+      <pubDate>Fri, 02 Jul 2010 15:36:44 +0000</pubDate>
+      
+      <guid>http://example.org/tags/audio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>edge case</title>
+      <link>http://example.org/tags/edge-case/</link>
+      <pubDate>Thu, 06 Aug 2009 16:39:56 +0000</pubDate>
+      
+      <guid>http://example.org/tags/edge-case/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>layout</title>
+      <link>http://example.org/tags/layout/</link>
+      <pubDate>Thu, 06 Aug 2009 16:39:56 +0000</pubDate>
+      
+      <guid>http://example.org/tags/layout/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

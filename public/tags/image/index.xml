@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>image on Markdown Content Unit Tests</title>
+    <link>http://example.org/tags/image/</link>
+    <description>Recent content in image on Markdown Content Unit Tests</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Jan 2013 03:15:40 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/image/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Markup: Image Alignment</title>
+      <link>http://example.org/2013/01/10/markup-image-alignment/</link>
+      <pubDate>Thu, 10 Jan 2013 03:15:40 +0000</pubDate>
+      
+      <guid>http://example.org/2013/01/10/markup-image-alignment/</guid>
+      <description>Welcome to image alignment! The best way to demonstrate the ebb and flow of the various image positioning options is to nestle them snuggly among an ocean of words. Grab a paddle and let’s get started.
+On the topic of alignment, it should be noted that users can choose from the options of None, Left, Right, and Center. In addition, they also get the options of Thumbnail, Medium, Large &amp;amp; Fullsize.</description>
+    </item>
+    
+    <item>
+      <title>Post Format: Image</title>
+      <link>http://example.org/2010/08/08/post-format-image/</link>
+      <pubDate>Sun, 08 Aug 2010 12:00:39 +0000</pubDate>
+      
+      <guid>http://example.org/2010/08/08/post-format-image/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post Format: Image (Caption)</title>
+      <link>http://example.org/2010/08/07/post-format-image-caption/</link>
+      <pubDate>Sat, 07 Aug 2010 13:00:19 +0000</pubDate>
+      
+      <guid>http://example.org/2010/08/07/post-format-image-caption/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post Format: Image (Linked)</title>
+      <link>http://example.org/2010/08/06/post-format-image-linked/</link>
+      <pubDate>Fri, 06 Aug 2010 15:09:39 +0000</pubDate>
+      
+      <guid>http://example.org/2010/08/06/post-format-image-linked/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>alignment on Markdown Content Unit Tests</title>
+    <link>http://example.org/tags/alignment/</link>
+    <description>Recent content in alignment on Markdown Content Unit Tests</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Jan 2013 03:15:40 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/alignment/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Markup: Image Alignment</title>
+      <link>http://example.org/2013/01/10/markup-image-alignment/</link>
+      <pubDate>Thu, 10 Jan 2013 03:15:40 +0000</pubDate>
+      
+      <guid>http://example.org/2013/01/10/markup-image-alignment/</guid>
+      <description>Welcome to image alignment! The best way to demonstrate the ebb and flow of the various image positioning options is to nestle them snuggly among an ocean of words. Grab a paddle and let’s get started.
+On the topic of alignment, it should be noted that users can choose from the options of None, Left, Right, and Center. In addition, they also get the options of Thumbnail, Medium, Large &amp;amp; Fullsize.</description>
+    </item>
+    
+    <item>
+      <title>Markup: Text Alignment</title>
+      <link>http://example.org/2013/01/09/markup-text-alignment/</link>
+      <pubDate>Wed, 09 Jan 2013 16:00:39 +0000</pubDate>
+      
+      <guid>http://example.org/2013/01/09/markup-text-alignment/</guid>
+      <description>Default This is a paragraph. It should not have any alignment of any kind. It should just flow like you would normally expect. Nothing fancy. Just straight up text, free flowing, with love. Completely neutral and not picking a side or sitting on the fence. It just is. It just freaking is. It likes where it is. It does not feel compelled to pick a side. Leave him be. It will just be better that way.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>captions on Markdown Content Unit Tests</title>
+    <link>http://example.org/tags/captions/</link>
+    <description>Recent content in captions on Markdown Content Unit Tests</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Jan 2013 03:15:40 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/captions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Markup: Image Alignment</title>
+      <link>http://example.org/2013/01/10/markup-image-alignment/</link>
+      <pubDate>Thu, 10 Jan 2013 03:15:40 +0000</pubDate>
+      
+      <guid>http://example.org/2013/01/10/markup-image-alignment/</guid>
+      <description>Welcome to image alignment! The best way to demonstrate the ebb and flow of the various image positioning options is to nestle them snuggly among an ocean of words. Grab a paddle and let’s get started.
+On the topic of alignment, it should be noted that users can choose from the options of None, Left, Right, and Center. In addition, they also get the options of Thumbnail, Medium, Large &amp;amp; Fullsize.</description>
+    </item>
+    
+  </channel>
+</rss>

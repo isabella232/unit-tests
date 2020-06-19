@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tiled on Markdown Content Unit Tests</title>
+    <link>http://example.org/tags/tiled/</link>
+    <description>Recent content in tiled on Markdown Content Unit Tests</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Sep 2010 00:23:27 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/tiled/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Post Format: Gallery (Tiled)</title>
+      <link>http://example.org/2010/09/09/post-format-gallery-tiled/</link>
+      <pubDate>Thu, 09 Sep 2010 00:23:27 +0000</pubDate>
+      
+      <guid>http://example.org/2010/09/09/post-format-gallery-tiled/</guid>
+      <description>This is a test for Jetpack’s Tiled Gallery.
+Install Jetpackto test.
+This is some text after the Tiled Gallery just to make sure that everything spaces nicely.</description>
+    </item>
+    
+  </channel>
+</rss>

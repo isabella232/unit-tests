@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Post Formats on Markdown Content Unit Tests</title>
+    <link>http://example.org/tags/post-formats/</link>
+    <description>Recent content in Post Formats on Markdown Content Unit Tests</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Oct 2010 07:27:25 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/post-formats/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Post Format: Standard</title>
+      <link>http://example.org/2010/10/05/post-format-standard/</link>
+      <pubDate>Tue, 05 Oct 2010 07:27:25 +0000</pubDate>
+      
+      <guid>http://example.org/2010/10/05/post-format-standard/</guid>
+      <description>&lt;p&gt;All children, except one, grow up. They soon know that they will grow up, and the way Wendy knew was this. One day when she was two years old she was playing in a garden, and she plucked another flower and ran with it to her mother. I suppose she must have looked rather delightful, for Mrs. Darling put her hand to her heart and cried, “Oh, why can’t you remain like this for ever!” This was all that passed between them on the subject, but henceforth Wendy knew that she must grow up. You always know after you are two. Two is the beginning of the end.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Post Format: Gallery</title>
+      <link>http://example.org/2010/09/10/post-format-gallery/</link>
+      <pubDate>Fri, 10 Sep 2010 14:24:14 +0000</pubDate>
+      
+      <guid>http://example.org/2010/09/10/post-format-gallery/</guid>
+      <description>You can use this page to test the Theme’s handling of the
+shortcode, including the columns parameter, from 1 to 9 columns. Themes are only required to support the default setting (3 columns), so this page is entirely optional.
+One Column Two Columns Three Columns Four Columns Five Columns Six Columns Seven Columns Eight Columns Nine Columns </description>
+    </item>
+    
+    <item>
+      <title>Post Format: Gallery (Tiled)</title>
+      <link>http://example.org/2010/09/09/post-format-gallery-tiled/</link>
+      <pubDate>Thu, 09 Sep 2010 00:23:27 +0000</pubDate>
+      
+      <guid>http://example.org/2010/09/09/post-format-gallery-tiled/</guid>
+      <description>This is a test for Jetpack’s Tiled Gallery.
+Install Jetpackto test.
+This is some text after the Tiled Gallery just to make sure that everything spaces nicely.</description>
+    </item>
+    
+    <item>
+      <title>Post Format: Image</title>
+      <link>http://example.org/2010/08/08/post-format-image/</link>
+      <pubDate>Sun, 08 Aug 2010 12:00:39 +0000</pubDate>
+      
+      <guid>http://example.org/2010/08/08/post-format-image/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post Format: Image (Caption)</title>
+      <link>http://example.org/2010/08/07/post-format-image-caption/</link>
+      <pubDate>Sat, 07 Aug 2010 13:00:19 +0000</pubDate>
+      
+      <guid>http://example.org/2010/08/07/post-format-image-caption/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post Format: Image (Linked)</title>
+      <link>http://example.org/2010/08/06/post-format-image-linked/</link>
+      <pubDate>Fri, 06 Aug 2010 15:09:39 +0000</pubDate>
+      
+      <guid>http://example.org/2010/08/06/post-format-image-linked/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post Format: Audio</title>
+      <link>http://example.org/2010/07/02/post-format-audio/</link>
+      <pubDate>Fri, 02 Jul 2010 15:36:44 +0000</pubDate>
+      
+      <guid>http://example.org/2010/07/02/post-format-audio/</guid>
+      <description>Link:
+St. Louis Blues
+Audio shortcode:</description>
+    </item>
+    
+    <item>
+      <title>Post Format: Video (YouTube)</title>
+      <link>http://example.org/2010/06/02/post-format-video-youtube/</link>
+      <pubDate>Wed, 02 Jun 2010 09:00:58 +0000</pubDate>
+      
+      <guid>http://example.org/2010/06/02/post-format-video-youtube/</guid>
+      <description>Learn more about WordPress Embeds.</description>
+    </item>
+    
+  </channel>
+</rss>

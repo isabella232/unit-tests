@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>template on Markdown Content Unit Tests</title>
+    <link>http://example.org/tags/template/</link>
+    <description>Recent content in template on Markdown Content Unit Tests</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Mar 2012 21:41:11 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/template/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Template: More Tag</title>
+      <link>http://example.org/unit-tests/2012-03-15-template-more-tag/</link>
+      <pubDate>Thu, 15 Mar 2012 21:41:11 +0000</pubDate>
+      
+      <guid>http://example.org/unit-tests/2012-03-15-template-more-tag/</guid>
+      <description>&lt;p&gt;This content is before the more tag.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Template: Excerpt (Defined)</title>
+      <link>http://example.org/2012/03/15/template-excerpt-defined/</link>
+      <pubDate>Thu, 15 Mar 2012 21:38:08 +0000</pubDate>
+      
+      <guid>http://example.org/2012/03/15/template-excerpt-defined/</guid>
+      <description>This is the post content. It should be displayed in place of the user-defined excerpt in single-page views.</description>
+    </item>
+    
+    <item>
+      <title>Template: Excerpt (Generated)</title>
+      <link>http://example.org/2012/03/14/template-excerpt-generated/</link>
+      <pubDate>Wed, 14 Mar 2012 16:49:22 +0000</pubDate>
+      
+      <guid>http://example.org/2012/03/14/template-excerpt-generated/</guid>
+      <description>This is the post content. It should be displayed in place of the auto-generated excerpt in single-page views. Archive-index pages should display an auto-generated excerpt of this content. Depending on Theme-defined filters, the length of the auto-generated excerpt will vary from Theme-to-Theme. The default length for auto-generated excerpts is 55 words, so to test the excerpt auto-generation, this post must have more than 55 words.
+Be sure to test the formatting of the auto-generated excerpt, to ensure that it doesn’t create any layout problems.</description>
+    </item>
+    
+    <item>
+      <title>Template: Sticky</title>
+      <link>http://example.org/2012/01/07/template-sticky/</link>
+      <pubDate>Sat, 07 Jan 2012 14:07:21 +0000</pubDate>
+      
+      <guid>http://example.org/2012/01/07/template-sticky/</guid>
+      <description>This is a sticky post.
+There are a few things to verify:
+ The sticky post should be distinctly recognizable in some way in comparison to normal posts. You can style the .sticky class if you are using the post_class()function to generate your post classes, which is a best practice. They should show at the very top of the blog index page, even though they could be several posts back chronologically.</description>
+    </item>
+    
+  </channel>
+</rss>

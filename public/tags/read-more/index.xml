@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>read more on Markdown Content Unit Tests</title>
+    <link>http://example.org/tags/read-more/</link>
+    <description>Recent content in read more on Markdown Content Unit Tests</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Mar 2012 21:41:11 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/read-more/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Template: More Tag</title>
+      <link>http://example.org/unit-tests/2012-03-15-template-more-tag/</link>
+      <pubDate>Thu, 15 Mar 2012 21:41:11 +0000</pubDate>
+      
+      <guid>http://example.org/unit-tests/2012-03-15-template-more-tag/</guid>
+      <description>&lt;p&gt;This content is before the more tag.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

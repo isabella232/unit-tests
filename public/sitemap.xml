@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2017-02-23T19:32:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/unit-tests/sample-page/</loc>
+    <lastmod>2017-02-23T19:32:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/unit-tests/</loc>
+    <lastmod>2017-02-23T19:32:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/unit-tests/page-markup-and-formatting/</loc>
+    <lastmod>2013-03-15T23:20:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/unit-tests/page-image-alignment/</loc>
+    <lastmod>2013-03-15T23:19:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+    <lastmod>2013-01-11T03:22:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/content/</loc>
+    <lastmod>2013-01-11T03:22:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/css/</loc>
+    <lastmod>2013-01-11T03:22:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/formatting/</loc>
+    <lastmod>2013-01-11T03:22:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/html/</loc>
+    <lastmod>2013-01-11T03:22:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/markup/</loc>
+    <lastmod>2013-01-11T03:22:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/markup/</loc>
+    <lastmod>2013-01-11T03:22:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/2013/01/11/markup-html-tags-and-formatting/</loc>
+    <lastmod>2013-01-11T03:22:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <lastmod>2013-01-11T03:22:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/uncategorized/</loc>
+    <lastmod>2013-01-11T03:22:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/alignment/</loc>
+    <lastmod>2013-01-10T03:15:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/captions/</loc>
+    <lastmod>2013-01-10T03:15:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/image/</loc>
+    <lastmod>2013-01-10T03:15:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/2013/01/10/markup-image-alignment/</loc>
+    <lastmod>2013-01-10T03:15:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/2013/01/09/markup-text-alignment/</loc>
+    <lastmod>2013-01-09T16:00:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/read-more/</loc>
+    <lastmod>2012-03-15T21:41:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/template/</loc>
+    <lastmod>2012-03-15T21:41:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/template/</loc>
+    <lastmod>2012-03-15T21:41:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/unit-tests/2012-03-15-template-more-tag/</loc>
+    <lastmod>2012-03-15T21:41:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/excerpt/</loc>
+    <lastmod>2012-03-15T21:38:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/2012/03/15/template-excerpt-defined/</loc>
+    <lastmod>2012-03-15T21:38:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/2012/03/14/template-excerpt-generated/</loc>
+    <lastmod>2012-03-14T16:49:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/sticky/</loc>
+    <lastmod>2012-01-07T14:07:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/2012/01/07/template-sticky/</loc>
+    <lastmod>2012-01-07T14:07:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/unit-tests/blog/</loc>
+    <lastmod>2011-05-21T01:51:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/unit-tests/front-page/</loc>
+    <lastmod>2011-05-21T01:49:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/2010/10/05/post-format-standard/</loc>
+    <lastmod>2010-10-05T07:27:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/post-formats/</loc>
+    <lastmod>2010-10-05T07:27:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/post-formats/</loc>
+    <lastmod>2010-10-05T07:27:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/readability/</loc>
+    <lastmod>2010-10-05T07:27:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/standard/</loc>
+    <lastmod>2010-10-05T07:27:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/gallery/</loc>
+    <lastmod>2010-09-10T14:24:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/2010/09/10/post-format-gallery/</loc>
+    <lastmod>2010-09-10T14:24:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/shortcode/</loc>
+    <lastmod>2010-09-10T14:24:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/jetpack/</loc>
+    <lastmod>2010-09-09T00:23:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/2010/09/09/post-format-gallery-tiled/</loc>
+    <lastmod>2010-09-09T00:23:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/tiled/</loc>
+    <lastmod>2010-09-09T00:23:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/2010/08/08/post-format-image/</loc>
+    <lastmod>2010-08-08T12:00:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/2010/08/07/post-format-image-caption/</loc>
+    <lastmod>2010-08-07T13:00:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/2010/08/06/post-format-image-linked/</loc>
+    <lastmod>2010-08-06T15:09:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/unit-tests/clearing-floates/</loc>
+    <lastmod>2010-08-01T16:42:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/unit-tests/about-us/</loc>
+    <lastmod>2010-07-26T02:40:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/audio/</loc>
+    <lastmod>2010-07-02T15:36:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/2010/07/02/post-format-audio/</loc>
+    <lastmod>2010-07-02T15:36:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/2010/06/02/post-format-video-youtube/</loc>
+    <lastmod>2010-06-02T09:00:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/edge-case/</loc>
+    <lastmod>2009-08-06T16:39:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/edge-case/</loc>
+    <lastmod>2009-08-06T16:39:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/2009/08/06/edge-case-no-content/</loc>
+    <lastmod>2009-08-06T16:39:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/layout/</loc>
+    <lastmod>2009-08-06T16:39:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/unit-tests/lorem-ipsum/</loc>
+    <lastmod>2007-09-04T16:52:50+00:00</lastmod>
+  </url>
+  
+</urlset>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gallery on Markdown Content Unit Tests</title>
+    <link>http://example.org/tags/gallery/</link>
+    <description>Recent content in gallery on Markdown Content Unit Tests</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Sep 2010 14:24:14 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/gallery/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Post Format: Gallery</title>
+      <link>http://example.org/2010/09/10/post-format-gallery/</link>
+      <pubDate>Fri, 10 Sep 2010 14:24:14 +0000</pubDate>
+      
+      <guid>http://example.org/2010/09/10/post-format-gallery/</guid>
+      <description>You can use this page to test the Theme’s handling of the
+shortcode, including the columns parameter, from 1 to 9 columns. Themes are only required to support the default setting (3 columns), so this page is entirely optional.
+One Column Two Columns Three Columns Four Columns Five Columns Six Columns Seven Columns Eight Columns Nine Columns </description>
+    </item>
+    
+    <item>
+      <title>Post Format: Gallery (Tiled)</title>
+      <link>http://example.org/2010/09/09/post-format-gallery-tiled/</link>
+      <pubDate>Thu, 09 Sep 2010 00:23:27 +0000</pubDate>
+      
+      <guid>http://example.org/2010/09/09/post-format-gallery-tiled/</guid>
+      <description>This is a test for Jetpack’s Tiled Gallery.
+Install Jetpackto test.
+This is some text after the Tiled Gallery just to make sure that everything spaces nicely.</description>
+    </item>
+    
+  </channel>
+</rss>

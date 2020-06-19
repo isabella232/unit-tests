@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Uncategorized on Markdown Content Unit Tests</title>
+    <link>http://example.org/categories/uncategorized/</link>
+    <description>Recent content in Uncategorized on Markdown Content Unit Tests</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Jan 2013 03:22:19 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/categories/uncategorized/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Markup: HTML Tags and Formatting</title>
+      <link>http://example.org/2013/01/11/markup-html-tags-and-formatting/</link>
+      <pubDate>Fri, 11 Jan 2013 03:22:19 +0000</pubDate>
+      
+      <guid>http://example.org/2013/01/11/markup-html-tags-and-formatting/</guid>
+      <description>Headings Header one Header two Header three Header four Header five Header six Blockquotes Single line blockquote:
+ Stay hungry. Stay foolish.
+ Multi line blockquote with a cite reference:
+ People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully.</description>
+    </item>
+    
+    <item>
+      <title>Markup: Image Alignment</title>
+      <link>http://example.org/2013/01/10/markup-image-alignment/</link>
+      <pubDate>Thu, 10 Jan 2013 03:15:40 +0000</pubDate>
+      
+      <guid>http://example.org/2013/01/10/markup-image-alignment/</guid>
+      <description>Welcome to image alignment! The best way to demonstrate the ebb and flow of the various image positioning options is to nestle them snuggly among an ocean of words. Grab a paddle and let’s get started.
+On the topic of alignment, it should be noted that users can choose from the options of None, Left, Right, and Center. In addition, they also get the options of Thumbnail, Medium, Large &amp;amp; Fullsize.</description>
+    </item>
+    
+    <item>
+      <title>Markup: Text Alignment</title>
+      <link>http://example.org/2013/01/09/markup-text-alignment/</link>
+      <pubDate>Wed, 09 Jan 2013 16:00:39 +0000</pubDate>
+      
+      <guid>http://example.org/2013/01/09/markup-text-alignment/</guid>
+      <description>Default This is a paragraph. It should not have any alignment of any kind. It should just flow like you would normally expect. Nothing fancy. Just straight up text, free flowing, with love. Completely neutral and not picking a side or sitting on the fence. It just is. It just freaking is. It likes where it is. It does not feel compelled to pick a side. Leave him be. It will just be better that way.</description>
+    </item>
+    
+    <item>
+      <title>Template: More Tag</title>
+      <link>http://example.org/unit-tests/2012-03-15-template-more-tag/</link>
+      <pubDate>Thu, 15 Mar 2012 21:41:11 +0000</pubDate>
+      
+      <guid>http://example.org/unit-tests/2012-03-15-template-more-tag/</guid>
+      <description>&lt;p&gt;This content is before the more tag.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Template: Excerpt (Defined)</title>
+      <link>http://example.org/2012/03/15/template-excerpt-defined/</link>
+      <pubDate>Thu, 15 Mar 2012 21:38:08 +0000</pubDate>
+      
+      <guid>http://example.org/2012/03/15/template-excerpt-defined/</guid>
+      <description>This is the post content. It should be displayed in place of the user-defined excerpt in single-page views.</description>
+    </item>
+    
+    <item>
+      <title>Template: Excerpt (Generated)</title>
+      <link>http://example.org/2012/03/14/template-excerpt-generated/</link>
+      <pubDate>Wed, 14 Mar 2012 16:49:22 +0000</pubDate>
+      
+      <guid>http://example.org/2012/03/14/template-excerpt-generated/</guid>
+      <description>This is the post content. It should be displayed in place of the auto-generated excerpt in single-page views. Archive-index pages should display an auto-generated excerpt of this content. Depending on Theme-defined filters, the length of the auto-generated excerpt will vary from Theme-to-Theme. The default length for auto-generated excerpts is 55 words, so to test the excerpt auto-generation, this post must have more than 55 words.
+Be sure to test the formatting of the auto-generated excerpt, to ensure that it doesn’t create any layout problems.</description>
+    </item>
+    
+    <item>
+      <title>Template: Sticky</title>
+      <link>http://example.org/2012/01/07/template-sticky/</link>
+      <pubDate>Sat, 07 Jan 2012 14:07:21 +0000</pubDate>
+      
+      <guid>http://example.org/2012/01/07/template-sticky/</guid>
+      <description>This is a sticky post.
+There are a few things to verify:
+ The sticky post should be distinctly recognizable in some way in comparison to normal posts. You can style the .sticky class if you are using the post_class()function to generate your post classes, which is a best practice. They should show at the very top of the blog index page, even though they could be several posts back chronologically.</description>
+    </item>
+    
+    <item>
+      <title>Post Format: Standard</title>
+      <link>http://example.org/2010/10/05/post-format-standard/</link>
+      <pubDate>Tue, 05 Oct 2010 07:27:25 +0000</pubDate>
+      
+      <guid>http://example.org/2010/10/05/post-format-standard/</guid>
+      <description>&lt;p&gt;All children, except one, grow up. They soon know that they will grow up, and the way Wendy knew was this. One day when she was two years old she was playing in a garden, and she plucked another flower and ran with it to her mother. I suppose she must have looked rather delightful, for Mrs. Darling put her hand to her heart and cried, “Oh, why can’t you remain like this for ever!” This was all that passed between them on the subject, but henceforth Wendy knew that she must grow up. You always know after you are two. Two is the beginning of the end.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Post Format: Gallery</title>
+      <link>http://example.org/2010/09/10/post-format-gallery/</link>
+      <pubDate>Fri, 10 Sep 2010 14:24:14 +0000</pubDate>
+      
+      <guid>http://example.org/2010/09/10/post-format-gallery/</guid>
+      <description>You can use this page to test the Theme’s handling of the
+shortcode, including the columns parameter, from 1 to 9 columns. Themes are only required to support the default setting (3 columns), so this page is entirely optional.
+One Column Two Columns Three Columns Four Columns Five Columns Six Columns Seven Columns Eight Columns Nine Columns </description>
+    </item>
+    
+    <item>
+      <title>Post Format: Gallery (Tiled)</title>
+      <link>http://example.org/2010/09/09/post-format-gallery-tiled/</link>
+      <pubDate>Thu, 09 Sep 2010 00:23:27 +0000</pubDate>
+      
+      <guid>http://example.org/2010/09/09/post-format-gallery-tiled/</guid>
+      <description>This is a test for Jetpack’s Tiled Gallery.
+Install Jetpackto test.
+This is some text after the Tiled Gallery just to make sure that everything spaces nicely.</description>
+    </item>
+    
+    <item>
+      <title>Post Format: Image</title>
+      <link>http://example.org/2010/08/08/post-format-image/</link>
+      <pubDate>Sun, 08 Aug 2010 12:00:39 +0000</pubDate>
+      
+      <guid>http://example.org/2010/08/08/post-format-image/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post Format: Image (Caption)</title>
+      <link>http://example.org/2010/08/07/post-format-image-caption/</link>
+      <pubDate>Sat, 07 Aug 2010 13:00:19 +0000</pubDate>
+      
+      <guid>http://example.org/2010/08/07/post-format-image-caption/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post Format: Image (Linked)</title>
+      <link>http://example.org/2010/08/06/post-format-image-linked/</link>
+      <pubDate>Fri, 06 Aug 2010 15:09:39 +0000</pubDate>
+      
+      <guid>http://example.org/2010/08/06/post-format-image-linked/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post Format: Audio</title>
+      <link>http://example.org/2010/07/02/post-format-audio/</link>
+      <pubDate>Fri, 02 Jul 2010 15:36:44 +0000</pubDate>
+      
+      <guid>http://example.org/2010/07/02/post-format-audio/</guid>
+      <description>Link:
+St. Louis Blues
+Audio shortcode:</description>
+    </item>
+    
+    <item>
+      <title>Post Format: Video (YouTube)</title>
+      <link>http://example.org/2010/06/02/post-format-video-youtube/</link>
+      <pubDate>Wed, 02 Jun 2010 09:00:58 +0000</pubDate>
+      
+      <guid>http://example.org/2010/06/02/post-format-video-youtube/</guid>
+      <description>Learn more about WordPress Embeds.</description>
+    </item>
+    
+    <item>
+      <title>Edge Case: No Content</title>
+      <link>http://example.org/2009/08/06/edge-case-no-content/</link>
+      <pubDate>Thu, 06 Aug 2009 16:39:56 +0000</pubDate>
+      
+      <guid>http://example.org/2009/08/06/edge-case-no-content/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
