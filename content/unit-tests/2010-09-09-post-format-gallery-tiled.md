@@ -16,6 +16,7 @@ tags:
 title: 'Post Format: Gallery (Tiled)'
 parent: "Variables"
 url: /2010/09/09/post-format-gallery-tiled/
+type: page
 ---
 
 This is a test for Jetpack&#8217;s Tiled Gallery.

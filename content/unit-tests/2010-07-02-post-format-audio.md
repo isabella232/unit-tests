@@ -17,6 +17,7 @@ tags:
 title: 'Post Format: Audio'
 parent: "Variables"
 url: /2010/07/02/post-format-audio/
+type: page
 ---
 
 Link:

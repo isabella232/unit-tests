@@ -11,6 +11,7 @@ tags:
 title: 'Template: Sticky'
 parent: "Variables"
 url: /2012/01/07/template-sticky/
+type: page
 ---
 
 This is a sticky post.

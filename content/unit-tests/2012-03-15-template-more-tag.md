@@ -12,6 +12,7 @@ tags:
 - template
 title: 'Template: More Tag'
 parent: "Variables"
+type: page
 ---
 
 This content is before the more tag.

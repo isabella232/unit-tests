@@ -14,6 +14,7 @@ tags:
 title: 'Markup: Text Alignment'
 parent: "Variables"
 url: /2013/01/09/markup-text-alignment/
+type: page
 ---
 
 ### Default

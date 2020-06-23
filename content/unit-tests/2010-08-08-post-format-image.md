@@ -13,6 +13,7 @@ tags:
 title: 'Post Format: Image'
 parent: "Variables"
 url: /2010/08/08/post-format-image/
+type: page
 ---
 
 <dl id="attachment_612" class="wp-caption aligncenter" style="width:650px;">

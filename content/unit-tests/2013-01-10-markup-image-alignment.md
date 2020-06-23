@@ -16,6 +16,7 @@ tags:
 title: 'Markup: Image Alignment'
 parent: "Variables"
 url: /2013/01/10/markup-image-alignment/
+type: page
 ---
 
 Welcome to image alignment! The best way to demonstrate the ebb and flow of the various image positioning options is to nestle them snuggly among an ocean of words. Grab a paddle and let&#8217;s get started.

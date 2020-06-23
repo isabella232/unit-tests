@@ -12,6 +12,7 @@ tags:
 title: 'Post Format: Gallery'
 parent: "Variables"
 url: /2010/09/10/post-format-gallery/
+type: page
 ---
 
 <div id='gallery-2' class='gallery galleryid-555 gallery-columns-3 gallery-size-thumbnail'>

@@ -15,6 +15,7 @@ tags:
 title: 'Markup: HTML Tags and Formatting'
 parent: "Variables"
 url: /2013/01/11/markup-html-tags-and-formatting/
+type: page
 ---
 
 ## Headings
