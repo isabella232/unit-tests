@@ -1,5 +1,5 @@
 ---
-title: About
+title: More About
 author: adamchlan
 type: about
 date: 2010-07-26T02:40:01+00:00
@@ -18,10 +18,6 @@ tags:
   - "tag1"
   - "tag2"
   - "tag3"
-menu: 
-  main:
-    name: About
-    weight: 3
 ---
 This site is using the standard WordPress Theme Unit Test Data for content. The Theme Unit Test is a series of posts and pages that match up with a checklist on the WordPress codex. You can use the data and checklist together to test your theme.
 
